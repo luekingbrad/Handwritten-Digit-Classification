@@ -1,0 +1,35 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Python testing / coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+
+.DS_Store
+
+# IDE / editor files
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
